@@ -20,3 +20,5 @@ __pycache__/
 *.pkl
 # Ignorar banco de dados grande
 data/raw/database.sqlite
+
+*.yml
