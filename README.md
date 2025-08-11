@@ -115,7 +115,7 @@ O usuário pode selecionar características do veículo nos menus dropdown e obt
 
 Você pode acessar a aplicação da Previsão de Custo de Franquia diretamente no link abaixo, hospedada no Streamlit Cloud:
 
-👉 [car-quality-classification-hao.streamlit.app](https://franchise-cost-prediction-hao.streamlit.app)
+👉 [car-quality-classification-hao.streamlit.app](https://car-quality-classification-hao.streamlit.app)
 
 ---
 
